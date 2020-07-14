@@ -414,7 +414,7 @@
                         },
                         "from": {
                             "kind": "DockerImage",
-                            "name": "registry.redhat.io/redhat-openjdk-18/openjdk18-openshift:latest"
+                            "name": "registry.redhat.io/ubi8/openjdk-8:latest"
                         }
                     },
                     {
@@ -434,7 +434,7 @@
                         },
                         "from": {
                             "kind": "DockerImage",
-                            "name": "registry.redhat.io/openjdk/openjdk-11-rhel7:latest"
+                            "name": "registry.redhat.io/ubi8/openjdk-11:latest"
                         }
                     },
                     {
